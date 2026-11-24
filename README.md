@@ -1,8 +1,6 @@
 # Ayush Patel – Personal Portfolio Website
 
-A responsive personal portfolio website configured for **Ayush Patel**, a Computer Science student at GLA University. This repository is part of Ujjwal Pratap’s web-development project collection and contains the source for a configurable portfolio experience.
-
-> **Project identity:** The portfolio content in `config.js` is for Ayush Patel. This README describes the project accurately and does not present Ayush’s profile as Ujjwal Pratap’s personal portfolio.
+A responsive personal portfolio website configured for **Ayush Patel**, a Computer Science student at GLA University. 
 
 ## Highlights
 
